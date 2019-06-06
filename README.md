@@ -8,3 +8,4 @@
 - 2019.06.06 - Applying Strides and Dropouts to Larger Models
 - 2019.06.06 - Titanic Naive Solution + simple EDA
 - 2019.06.06 - Titanic Modifying column by column
+- 2019.06.06 - Titanic Intermediate Manipulation
