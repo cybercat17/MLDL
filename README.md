@@ -6,3 +6,5 @@
 - 2019.06.06 - MNIST digit recognizer from scratch
 - 2019.06.06 - Fashion MNIST from Scratch
 - 2019.06.06 - Applying Strides and Dropouts to Larger Models
+- 2019.06.06 - Titanic Naive Solution + simple EDA
+- 2019.06.06 - Titanic Modifying column by column
