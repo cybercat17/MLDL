@@ -9,3 +9,4 @@
 - 2019.06.06 - Titanic Naive Solution + simple EDA
 - 2019.06.06 - Titanic Modifying column by column
 - 2019.06.06 - Titanic Intermediate Manipulation
+- 2019.07.01 - Linear Regression using Method of Least Squares
